@@ -28,9 +28,9 @@
   "license": "MIT",
   "devDependencies": {
     "@types/puppeteer": "2.0.1",
-    "jest-cli": "26.0.1",
-    "jest-cucumber": "^3.0.0",
-    "microbundle": "^0.12.4",
+    "jest-cli": "29.7.0",
+    "jest-cucumber": "^4.4.0",
+    "microbundle": "^0.15.1",
     "puppeteer": "2.1.1"
   }
 }
